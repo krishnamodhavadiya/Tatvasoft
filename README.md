@@ -1,5 +1,5 @@
-<h1> NEEL MERJA</h1>
-<h2>ENROLLMENT_NUMBER : 22BECE30175</h2>
+<h1> KRISHNA MODHAVADIYA</h1>
+<h2>ENROLLMENT_NUMBER : 22BECE30180</h2>
 
 This is the repository that contains all my works during the 15 days of Summer Intership at TATVASOFT.
 
