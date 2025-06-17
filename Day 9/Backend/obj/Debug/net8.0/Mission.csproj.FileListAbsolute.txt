@@ -1,0 +1,441 @@
+D:\Mission\Mission\Mission\bin\Debug\net8.0\appsettings.Development.json
+D:\Mission\Mission\Mission\bin\Debug\net8.0\appsettings.json
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Mission.staticwebassets.endpoints.json
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Mission.exe
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Mission.deps.json
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Mission.runtimeconfig.json
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Mission.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Mission.pdb
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Humanizer.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Npgsql.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\System.CodeDom.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\System.Text.Json.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Mission.Entities.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Mission.Repositories.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Mission.Services.dll
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\Mission\Mission\Mission\bin\Debug\net8.0\Mission.Services.pdb
+D:\Mission\Mission\Mission\obj\Debug\net8.0\Mission.csproj.AssemblyReference.cache
+D:\Mission\Mission\Mission\obj\Debug\net8.0\Mission.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mission\Mission\Mission\obj\Debug\net8.0\Mission.AssemblyInfoInputs.cache
+D:\Mission\Mission\Mission\obj\Debug\net8.0\Mission.AssemblyInfo.cs
+D:\Mission\Mission\Mission\obj\Debug\net8.0\Mission.csproj.CoreCompileInputs.cache
+D:\Mission\Mission\Mission\obj\Debug\net8.0\Mission.MvcApplicationPartsAssemblyInfo.cs
+D:\Mission\Mission\Mission\obj\Debug\net8.0\Mission.MvcApplicationPartsAssemblyInfo.cache
+D:\Mission\Mission\Mission\obj\Debug\net8.0\scopedcss\bundle\Mission.styles.css
+D:\Mission\Mission\Mission\obj\Debug\net8.0\staticwebassets.build.json
+D:\Mission\Mission\Mission\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Mission\Mission\Mission\obj\Debug\net8.0\staticwebassets.development.json
+D:\Mission\Mission\Mission\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Mission\Mission\Mission\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Mission\Mission\Mission\obj\Debug\net8.0\Mission.csproj.Up2Date
+D:\Mission\Mission\Mission\obj\Debug\net8.0\Mission.dll
+D:\Mission\Mission\Mission\obj\Debug\net8.0\refint\Mission.dll
+D:\Mission\Mission\Mission\obj\Debug\net8.0\Mission.pdb
+D:\Mission\Mission\Mission\obj\Debug\net8.0\Mission.genruntimeconfig.cache
+D:\Mission\Mission\Mission\obj\Debug\net8.0\ref\Mission.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\appsettings.json
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Mission.staticwebassets.endpoints.json
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Mission.exe
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Mission.deps.json
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Mission.runtimeconfig.json
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Mission.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Mission.pdb
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Humanizer.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Npgsql.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Mission.Services.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\bin\Debug\net8.0\Mission.Services.pdb
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\Mission.csproj.AssemblyReference.cache
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\Mission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\Mission.AssemblyInfoInputs.cache
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\Mission.AssemblyInfo.cs
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\Mission.csproj.CoreCompileInputs.cache
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\Mission.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\Mission.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\scopedcss\bundle\Mission.styles.css
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\Mission.csproj.Up2Date
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\Mission.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\refint\Mission.dll
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\Mission.pdb
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\Mission.genruntimeconfig.cache
+C:\Users\NISARG\Downloads\Mission\Mission\Mission\Mission\obj\Debug\net8.0\ref\Mission.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\appsettings.Development.json
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\appsettings.json
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Mission.staticwebassets.endpoints.json
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Mission.exe
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Mission.deps.json
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Mission.runtimeconfig.json
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Mission.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Mission.pdb
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Humanizer.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Npgsql.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\System.CodeDom.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\System.Text.Json.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Mission.Entities.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Mission.Repositories.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Mission.Services.dll
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\Day 9\Mission\Mission\bin\Debug\net8.0\Mission.Services.pdb
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\Mission.csproj.AssemblyReference.cache
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\Mission.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\Mission.AssemblyInfoInputs.cache
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\Mission.AssemblyInfo.cs
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\Mission.csproj.CoreCompileInputs.cache
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\Mission.MvcApplicationPartsAssemblyInfo.cs
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\Mission.MvcApplicationPartsAssemblyInfo.cache
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\scopedcss\bundle\Mission.styles.css
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\staticwebassets.build.json
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\staticwebassets.development.json
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\Mission.csproj.Up2Date
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\Mission.dll
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\refint\Mission.dll
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\Mission.pdb
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\Mission.genruntimeconfig.cache
+D:\Day 9\Mission\Mission\obj\Debug\net8.0\ref\Mission.dll
