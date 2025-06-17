@@ -1,0 +1,30 @@
+D:\Dot net\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+D:\Dot net\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+D:\Dot net\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\Dot net\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+D:\Dot net\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Dot net\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+D:\Dot net\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot net\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+D:\Dot net\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+D:\Dot net\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+D:\Dot net\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+D:\Dot net\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+D:\Dot net\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+D:\Dot net\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+D:\Dot net\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+C:\Users\Admin\Downloads\Tatvasoft-main\Tatvasoft-main\Day 10 Mission CRUD operation\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+C:\Users\Admin\Downloads\Tatvasoft-main\Tatvasoft-main\Day 10 Mission CRUD operation\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\Admin\Downloads\Tatvasoft-main\Tatvasoft-main\Day 10 Mission CRUD operation\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\Admin\Downloads\Tatvasoft-main\Tatvasoft-main\Day 10 Mission CRUD operation\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\Admin\Downloads\Tatvasoft-main\Tatvasoft-main\Day 10 Mission CRUD operation\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\Admin\Downloads\Tatvasoft-main\Tatvasoft-main\Day 10 Mission CRUD operation\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Tatvasoft-main\Tatvasoft-main\Day 10 Mission CRUD operation\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Tatvasoft-main\Tatvasoft-main\Day 10 Mission CRUD operation\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Tatvasoft-main\Tatvasoft-main\Day 10 Mission CRUD operation\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Tatvasoft-main\Tatvasoft-main\Day 10 Mission CRUD operation\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Tatvasoft-main\Tatvasoft-main\Day 10 Mission CRUD operation\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+C:\Users\Admin\Downloads\Tatvasoft-main\Tatvasoft-main\Day 10 Mission CRUD operation\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+C:\Users\Admin\Downloads\Tatvasoft-main\Tatvasoft-main\Day 10 Mission CRUD operation\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+C:\Users\Admin\Downloads\Tatvasoft-main\Tatvasoft-main\Day 10 Mission CRUD operation\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\Admin\Downloads\Tatvasoft-main\Tatvasoft-main\Day 10 Mission CRUD operation\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
